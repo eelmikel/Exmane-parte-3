@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>El cambio climatico</title>
+    </head>
+        <body>
+            <h1>Cambio climatico</h1>
+            <img src="imagenes/cambioclimatico.jpg">
+            <hr />
+            <br />
+
+            <a href="https://es.wikipedia.org/wiki/Cambio_clim%C3%A1tico">Wikipedia</a>
+            <h3>¿Que es un cambio climatico?</h3>
+            <p>
+                Definición
+            </p>Un cambio climático se define como la variación en el estado del sistema climático terrestre, formado por la atmósfera, la hidrosfera, la criosfera, la litosfera y la biosfera, que perdura durante periodos de tiempo suficientemente largos (décadas o más tiempo)​ hasta alcanzar un nuevo equilibrio.
+            <h3>Tipos</h3>
+            <p>
+                Un cambio en la emisión de radiación solar, en la composición de la atmósfera, en la disposición de los continentes, en las corrientes marinas o en la órbita de la Tierra puede modificar la distribución de energía y el equilibrio térmico, alterando así profundamente el clima cuando se trata de procesos de larga duración.
+            </p>
+            <p>
+                Provocados principalmente por la quema de combustibles fósiles para la generación de electricidad, el transporte, la calefacción, la industria y la edificación.
+            </p>
+            <br />
+            <hr />
+          
+        </body>
+</html>
